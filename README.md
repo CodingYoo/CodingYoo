@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**CodingYoo/CodingYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" align="right" height="150">
 
-Here are some ideas to get you started:
+🎉 Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏻‍💻 I'm lph - a Java developer,  Open source contributor.
+
+You can contact me on [BiliBili](https://space.bilibili.com/428236132) or [Telegrame](https://twitter.com/doslphx).
+
+<details>
+<summary>About Open Source </summary>
+
+🚀 Some of my main projects:
+
+- [java-practice](https://github.com/CodingYoo/itheimaHomework) - A simple demo.
+
+
+👀 [Get More ...](https://github.com/CodingYoo)
+
+</details>
+
+---
+⭐️ From [here](https://github.com/CodingYoo)
