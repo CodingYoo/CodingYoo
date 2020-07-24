@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://cdn.jsdelivr.net/gh/CodingYoo/CDN@1.0/blob/master/2.jpg" align="right" height="150">
+<img src="https://cdn.jsdelivr.net/gh/CodingYoo/CDN@1.1/1.jpg" align="right" height="150">
 
 🎉 Welcome to my GitHub profile!
 
