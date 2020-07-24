@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://cdn.jsdelivr.net/gh/sy-records/staticfile@master/images/202007/huaji.gif" align="right" height="150">
+<img src="https://cdn.jsdelivr.net/gh/CodingYoo/CDN@1.0/123.png" align="right" height="150">
 
 🎉 Welcome to my GitHub profile!
 
