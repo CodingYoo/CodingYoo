@@ -2,7 +2,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/CodingYoo/CDN@1.1/123.png" align="right" height="150">
 
-🎉 Welcome to my GitHub profile!
+:heartpulse:  Welcome to my GitHub profile!
 
 👨🏻‍💻 I'm CodingYoo - a Java developer,  Open source contributor.
 
