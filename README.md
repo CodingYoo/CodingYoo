@@ -16,7 +16,7 @@ You can contact me on [BiliBili](https://space.bilibili.com/428236132) or [Teleg
 - [java-practice](https://github.com/CodingYoo/itheimaHomework) - A simple demo.
 
 
-👀 [Get More ...](https://github.com/CodingYoo)
+:blue_heart: [Get More ...](https://github.com/CodingYoo)
 
 </details>
 
