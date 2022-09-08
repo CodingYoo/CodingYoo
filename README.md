@@ -13,7 +13,7 @@ You can contact me on [BiliBili](https://space.bilibili.com/428236132) or [Teleg
 
 🚀 Some of my main projects:
 
-- [java-practice](https://github.com/CodingYoo/itheimaHomework) - A simple demo.
+- [python](https://github.com/CodingYoo/python) - A simple demo.
 
 
 :blue_heart: [Get More ...](https://github.com/CodingYoo)
