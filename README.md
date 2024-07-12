@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://cdn.jsdelivr.net/gh/CodingYoo/CDN@1.1/123.png" align="right" height="140">
+<!-- <img src="https://cdn.jsdelivr.net/gh/CodingYoo/CDN@1.1/123.png" align="right" height="140"> -->
 
 :heartpulse:  Welcome to my GitHub profile!
 
