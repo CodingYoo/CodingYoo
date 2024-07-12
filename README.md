@@ -9,16 +9,4 @@
 You can contact me on [BiliBili](https://space.bilibili.com/428236132) or [Telegrame](https://t.me/doslphx).
 
 <details>
-<summary>About Open Source </summary>
 
-🚀 Some of my main projects:
-
-- [python](https://github.com/CodingYoo/python) - A simple demo.
-
-
-:blue_heart: [Get More ...](https://github.com/CodingYoo)
-
-</details>
-
----
-⭐️ From [here](https://github.com/CodingYoo)
